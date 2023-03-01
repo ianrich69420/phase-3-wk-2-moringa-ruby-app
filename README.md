@@ -101,7 +101,7 @@ You can use the following steps to run the app:
 
         bundle install  
 
-- Test out the deliverables!
+- Test out the deliverables in the bin/run folder!
 
 ## Author
 This project was contributed to by:
